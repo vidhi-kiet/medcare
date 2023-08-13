@@ -11,13 +11,13 @@ from streamlit_option_menu import option_menu
 
 #loading the saved model
 
-diabetes_model=pickle.load(open('C:/Users/vidhi/OneDrive/Desktop/multidesise dataset - Copy/diabetes.sav','rb'))
+diabetes_model=pickle.load(open('diabetes.sav','rb'))
 
-heart_disease_model=pickle.load(open('C:/Users/vidhi/OneDrive/Desktop/multidesise dataset - Copy/heart_disease_model.sav','rb'))
+heart_disease_model=pickle.load(open('heart_disease_model.sav','rb'))
 
-parkinsons_model=pickle.load(open('C:/Users/vidhi/OneDrive/Desktop/multidesise dataset - Copy/parkinsons_model.sav','rb'))
+parkinsons_model=pickle.load(open('parkinsons_model.sav','rb'))
 
-Breast_cancer_model=pickle.load(open('C:/Users/vidhi/OneDrive/Desktop/multidesise dataset - Copy/breast_cancer_model.sav','rb'))
+Breast_cancer_model=pickle.load(open('breast_cancer_model.sav','rb'))
 
 #sidebar for navigation
 
