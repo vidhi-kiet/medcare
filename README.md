@@ -1,9 +1,13 @@
 # MedCare: Multi-Disease Prediction System
 ## 📸 Screenshots
-![Screenshot (125)](https://github.com/vidhi-kiet/MedCare/assets/78697483/663bdd0a-96bf-4fb0-8839-a5c92b02f109)
-![Screenshot (126)](https://github.com/vidhi-kiet/MedCare/assets/78697483/c6f29d8e-0017-4752-b60e-a547d6e6cf3d)
-![Screenshot (127)](https://github.com/vidhi-kiet/MedCare/assets/78697483/808508da-9ac8-4c8b-b01b-e3f8e03fb0ad)
-![Screenshot (128)](https://github.com/vidhi-kiet/MedCare/assets/78697483/1106bd28-b169-4747-97ce-278fd3501eef)
+![Screenshot (125)](https://github.com/vidhi-kiet/medcare/assets/78697483/5b3c0a35-f590-4bb1-8cad-77cfc803bbee)
+
+![Screenshot (126)](https://github.com/vidhi-kiet/medcare/assets/78697483/1050fa12-98af-494a-9386-63238f3ec50f)
+
+![Screenshot (127)](https://github.com/vidhi-kiet/medcare/assets/78697483/cefc9822-8bcf-4386-9c29-f30b15aeb491)
+
+![Screenshot (128)](https://github.com/vidhi-kiet/medcare/assets/78697483/f6518124-eaf0-4960-81da-e2988358688c)
+
 
 Welcome to MedCare, a comprehensive multi-disease prediction system that aims to revolutionize healthcare by providing accurate predictions for diseases such as diabetes, heart disease, and Parkinson's. This README will guide you through the project's overview, installation, usage, and contribution guidelines.
 ## Watch the Live [Demo](https://medcare-fisontakmexrgpyyatvwdk.streamlit.app/)
